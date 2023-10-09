@@ -1,14 +1,13 @@
 # 👋 About me
-Hi, I’m Rybakova Nataliya, I live in Nizhny Novgorod, Russia. I really love UX/UI design of websites, desktop or mobile application and I improve my skills.
-- 💜 I’m interested in design.
-- 🐰 I’m currently learning UX/UI design.
+Hi, I’m Rybakova Nataliya, I'm living in Nizhny Novgorod, Russia. I'm really in love about 3D design characters or something models and I'm improve my skills to make them.
+- 💜 I’m interested in 3D design.
+- 🐰 I’m currently learning basics 3D design at Blender.
 # 🌺 Contacts
 - Email: natashka.chebupel@gmail.com
 - Telegram: @killabae
 # 📚 Education
 I graduated from the Nizhny Novgorod Technical College, my speciality - programmer.
 # 👨‍💻 Skills
-- Figma
+- Blender
 - Adobe Photoshop
-- Adobe Illustrator
 
